@@ -1,11 +1,12 @@
 # git
 
-This repository was initialized on 2026-09-20.
+本仓库由 `C:\Users\daixv\Desktop\git` 初始化，用于通过 Git 进行版本管理。
 
-Replace this file with your project files, then commit and push as usual:
+## 使用方式
 
 ```bash
-git add -A
-git commit -m "your message"
-git push
+git status          # 查看当前改动
+git add .           # 暂存改动
+git commit -m "..." # 提交
+git push            # 推送到 GitHub
 ```
